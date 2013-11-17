@@ -1,8 +1,7 @@
 Abbreviatr
 ==========
 
-'GeneratePasswords' - Generate passwords by abbreviating the sentences in a plai
-n text file.
+'GeneratePasswords' - Generate passwords by abbreviating the sentences in a plain text file.
 
 Expected usage: Abbreviatr.exe GeneratePasswords <options>
 
